@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is myapp
 
 
